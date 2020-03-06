@@ -34,7 +34,7 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  array  = ["am", "cobalt blue", "green", "arrays!"]
+  array  = ["wow", "cobalt blue", "green", "arrays!"]
   index_number = "#{array[0]}"
 end
 
