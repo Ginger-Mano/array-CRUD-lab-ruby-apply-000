@@ -20,7 +20,8 @@ end
 
 def remove_element_from_end_of_array(array)
   array  = ["magenta", "cobalt blue", "green", "marigold"]
-  array.pop = "marigold"
+  element = "arrays!"
+  array.pop = element
 end
 
 def remove_element_from_start_of_array(array)
